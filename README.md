@@ -1,5 +1,12 @@
 Hi 👋 My name is Alireza
-========================Web Developer-------------* 🌍  I'm based in Iran - Alborz* ✉️  You can contact me at [alr.rashidi@outlook.com](mailto:alr.rashidi@outlook.com)* 🚀  I'm currently working on [Behtar Tube](http://behtar-tube.vercel.app)* 🧠  I'm learning NextJS
+========================
+Web Developer
+-------------
+
+* 🌍  I'm based in Iran - Alborz
+* ✉️  You can contact me at [alr.rashidi@outlook.com](mailto:alr.rashidi@outlook.com)
+* 🚀  I'm currently working on [Behtar Tube](http://behtar-tube.vercel.app)
+* 🧠  I'm learning NextJS
 
 ### Skills
 
@@ -14,5 +21,4 @@ Hi 👋 My name is Alireza
 <a href="http://www.instagram.com/alr_1386" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/alireza-rashidi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/23134731" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/alr86" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
