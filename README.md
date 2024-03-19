@@ -5,8 +5,8 @@ Web Developer
 
 * 🌍  I'm based in Iran - Alborz
 * ✉️  You can contact me at [alr.rashidi@outlook.com](mailto:alr.rashidi@outlook.com)
-* 🚀  I'm currently working on [Behtar Tube](http://behtar-tube.vercel.app)
-* 🧠  I'm learning NextJS
+// * 🚀  I'm currently working on [Behtar Tube](http://behtar-tube.vercel.app)
+// * 🧠  I'm learning NextJS
 
 ### Skills
 
